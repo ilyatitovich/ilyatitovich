@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ilya 👋</h1>
+<p align="center">Frontend Developer</p>
 
-<!--
-**ilyatitovich/ilyatitovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in React, Next.js, and modern frontend architecture, with a strong focus on maintainable code, user experience, and business outcomes.
+
+I don’t just implement tasks - I offer solutions, working closely with clients and teams to turn ideas into reliable, production-ready software. I contribute to open source and have published several npm packages.
+
+- 🔭 Currently working on: Spaced Repetition App;
+- 💼 Open to freelance & remote work;
+- 🧠 Love diving into how things work under the hood.
+
+---
+
+### 🧰 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+---
+
+### 📌 Featured Projects
+
+- 🧠 [Spaced Repetition App](https://github.com/ilyatitovich/spaced_rep_app) — PWA for efficient learning;
+- ⚙️ [remark-lint heading capitalization](https://github.com/ilyatitovich/remark-lint-heading-capitalization) — Plugin to ensure that your Markdown headings capitalization is correct;
+- ⚙️ [remark-lint check toc](https://github.com/ilyatitovich/remark-lint-check-toc) — Plugin to ensure that your Markdown TOC is correct;
+- ⚙️ [remark-lint code block split list](https://github.com/ilyatitovich/remark-lint-code-block-split-list) — Plugin to ensure that code block inside list doesn't split the list;
+- ⚙️ [remark-lint smarty pants typography](https://github.com/ilyatitovich/remark-lint-smarty-pants-typography) — Plugin to ensure that your Markdown use curved quotes, apostrophes and hyphens/dashes.
+---
+
+### 🤝 Let's Connect
+
+- LinkedIn: [linkedin.com/in/ilyatitovich/](https://www.linkedin.com/in/ilyatitovich/)
+- Email: [ilyatitovdev@gmail.com](mailto:ilyatitovdev@gmail.com)
