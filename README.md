@@ -1,14 +1,12 @@
 <h1 align="center">Hi, I'm Ilya 👋</h1>
 
-### 🚀 About Me
-
 I contribute to open source and have published several npm packages.
 
 - 🔭 Currently working on: Spaced Repetition App;
 - 💼 Open to freelance & remote work;
 - 🧠 Love diving into how things work under the hood.
 
-### 🧰 Tech Stack
+### My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -18,7 +16,7 @@ I contribute to open source and have published several npm packages.
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
-### 📌 Featured Projects
+### My Projects
 
 - 🧠 [Spaced Repetition App](https://github.com/ilyatitovich/spaced_rep_app) — PWA for efficient learning;
 - ⚙️ [remark-lint heading capitalization](https://github.com/ilyatitovich/remark-lint-heading-capitalization) — Plugin to ensure that your Markdown headings capitalization is correct;
@@ -26,7 +24,7 @@ I contribute to open source and have published several npm packages.
 - ⚙️ [remark-lint code block split list](https://github.com/ilyatitovich/remark-lint-code-block-split-list) — Plugin to ensure that code block inside list doesn't split the list;
 - ⚙️ [remark-lint smarty pants typography](https://github.com/ilyatitovich/remark-lint-smarty-pants-typography) — Plugin to ensure that your Markdown use curved quotes, apostrophes and hyphens/dashes.
 
-### 🤝 Let's Connect
+### Let's Connect
 
 - Telegram: [@ilyatitovdev](https://t.me/ilyatitovdev)
 - LinkedIn: [in/ilyatitovich](https://www.linkedin.com/in/ilyatitovich/)
