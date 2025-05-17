@@ -13,6 +13,7 @@ I contribute to open source and have published several npm packages.
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
+![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
