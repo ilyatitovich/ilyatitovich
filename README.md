@@ -32,7 +32,7 @@ I don’t just implement tasks — I offer solutions, working closely with clien
 
 ### 🤝 Let's Connect
 
-- Telegram: [@ilyatitovdev](http://t.me/ilyatitovdev)
+- Telegram: [@ilyatitovdev](https://t.me/ilyatitovdev)
 - LinkedIn: [linkedin.com/in/ilyatitovich/](https://www.linkedin.com/in/ilyatitovich/)
 - Email: [ilyatitovdev@gmail.com](mailto:ilyatitovdev@gmail.com)
 
