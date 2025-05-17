@@ -33,6 +33,6 @@ I contribute to open source and have published several npm packages.
 ### 🤝 Let's Connect
 
 - Telegram: [@ilyatitovdev](https://t.me/ilyatitovdev)
-- LinkedIn: [in/ilyatitovich/](https://www.linkedin.com/in/ilyatitovich/)
+- LinkedIn: [in/ilyatitovich](https://www.linkedin.com/in/ilyatitovich/)
 - Email: [ilyatitovdev@gmail.com](mailto:ilyatitovdev@gmail.com)
 
