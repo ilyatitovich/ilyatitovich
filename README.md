@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Ilya 👋</h1>
-<p align="center">Frontend Developer</p>
-
----
 
 ### 🚀 About Me
 
@@ -12,8 +9,6 @@ I don’t just implement tasks - I offer solutions, working closely with clients
 - 🔭 Currently working on: Spaced Repetition App;
 - 💼 Open to freelance & remote work;
 - 🧠 Love diving into how things work under the hood.
-
----
 
 ### 🧰 Tech Stack
 
@@ -26,8 +21,6 @@ I don’t just implement tasks - I offer solutions, working closely with clients
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
----
-
 ### 📌 Featured Projects
 
 - 🧠 [Spaced Repetition App](https://github.com/ilyatitovich/spaced_rep_app) — PWA for efficient learning;
@@ -35,7 +28,6 @@ I don’t just implement tasks - I offer solutions, working closely with clients
 - ⚙️ [remark-lint check toc](https://github.com/ilyatitovich/remark-lint-check-toc) — Plugin to ensure that your Markdown TOC is correct;
 - ⚙️ [remark-lint code block split list](https://github.com/ilyatitovich/remark-lint-code-block-split-list) — Plugin to ensure that code block inside list doesn't split the list;
 - ⚙️ [remark-lint smarty pants typography](https://github.com/ilyatitovich/remark-lint-smarty-pants-typography) — Plugin to ensure that your Markdown use curved quotes, apostrophes and hyphens/dashes.
----
 
 ### 🤝 Let's Connect
 
