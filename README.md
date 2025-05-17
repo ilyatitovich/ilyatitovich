@@ -2,8 +2,6 @@
 
 ### 🚀 About Me
 
-I specialize in React, Next.js, and modern frontend architecture, with a strong focus on maintainable code, user experience, and business outcomes.
-
 I contribute to open source and have published several npm packages.
 
 - 🔭 Currently working on: Spaced Repetition App;
