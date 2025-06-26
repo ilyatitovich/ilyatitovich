@@ -2,7 +2,6 @@
 
 I contribute to open source and have published several npm packages.
 
-- 🔭 Currently working on: Spaced Repetition App;
 - 💼 Open to freelance & remote work;
 - 🧠 Love diving into how things work under the hood.
 
