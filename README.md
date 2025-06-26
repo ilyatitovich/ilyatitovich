@@ -19,7 +19,6 @@ I contribute to open source and have published several npm packages.
 
 ### My Projects
 
-- 🧠 [Spaced Repetition App](https://github.com/ilyatitovich/spaced_rep_app) — PWA for efficient learning;
 - ⚙️ [remark-lint heading capitalization](https://github.com/ilyatitovich/remark-lint-heading-capitalization) — Plugin to ensure that your Markdown headings capitalization is correct;
 - ⚙️ [remark-lint check toc](https://github.com/ilyatitovich/remark-lint-check-toc) — Plugin to ensure that your Markdown TOC is correct;
 - ⚙️ [remark-lint code block split list](https://github.com/ilyatitovich/remark-lint-code-block-split-list) — Plugin to ensure that code block inside list doesn't split the list;
