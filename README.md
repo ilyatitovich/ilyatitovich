@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Ilya 👋</h1>
-
 I contribute to open source and have published several npm packages.
 
 - 💼 Open to freelance & remote work;
