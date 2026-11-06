@@ -20,7 +20,7 @@ I contribute to open source and have published several npm packages.
 - [remark-lint check toc](https://github.com/ilyatitovich/remark-lint-check-toc) — Plugin to ensure that your Markdown TOC is correct;
 - [remark-lint code block split list](https://github.com/ilyatitovich/remark-lint-code-block-split-list) — Plugin to ensure that code block inside list doesn't split the list;
 - [remark-lint smarty pants typography](https://github.com/ilyatitovich/remark-lint-smarty-pants-typography) — Plugin to ensure that your Markdown use curved quotes, apostrophes and hyphens/dashes.
-- [https://github.com/ilyatitovich/bp-analyst] — A Manifest V3 browser extension for producers doing market reconnaissance on Beatport.
+- [bp-analyst](https://github.com/ilyatitovich/bp-analyst) — A Manifest V3 browser extension for producers doing market reconnaissance on Beatport.
 
 ### Let's Connect
 
