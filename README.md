@@ -1,7 +1,7 @@
 I contribute to open source and have published several npm packages.
 
-- 💼 Open to freelance & remote work;
-- 🧠 Love diving into how things work under the hood.
+- Open to freelance & remote work;
+- Love diving into how things work under the hood.
 
 ### My Tech Stack
 
