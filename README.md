@@ -21,6 +21,7 @@ I contribute to open source and have published several npm packages.
 - [remark-lint code block split list](https://github.com/ilyatitovich/remark-lint-code-block-split-list) — Plugin to ensure that code block inside list doesn't split the list;
 - [remark-lint smarty pants typography](https://github.com/ilyatitovich/remark-lint-smarty-pants-typography) — Plugin to ensure that your Markdown use curved quotes, apostrophes and hyphens/dashes.
 - [bp-analyst](https://github.com/ilyatitovich/bp-analyst) — A Manifest V3 browser extension that helps music producers conduct market research on Beatport.
+- [memory-monitor](https://github.com/ilyatitovich/memory-monitor) — A library for monitoring memory usage and detecting memory leaks.
 
 ### Let's Connect
 
