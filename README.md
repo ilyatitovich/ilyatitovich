@@ -22,6 +22,7 @@ I contribute to open source and have published several npm packages.
 - [remark-lint smarty pants typography](https://github.com/ilyatitovich/remark-lint-smarty-pants-typography) — Plugin to ensure that your Markdown use curved quotes, apostrophes and hyphens/dashes.
 - [bp-analyst](https://github.com/ilyatitovich/bp-analyst) — A Manifest V3 browser extension that helps music producers conduct market research on Beatport.
 - [memory-monitor](https://github.com/ilyatitovich/memory-monitor) — A library for monitoring memory usage and detecting memory leaks.
+- [spaced_rep_app](https://github.com/ilyatitovich/spaced_rep_app) — A simple and effective spaced repetition app to help you remember anything better.
 
 ### Let's Connect
 
